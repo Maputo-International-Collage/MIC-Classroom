@@ -3,11 +3,31 @@
       background-color: white;
       color: black;
       }
+    a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
   }
   @media (prefers-color-scheme: dark) {
     body {
       background-color: black;
       color: white;
       }
+    a:link {
+      color: white;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:hover {
+      color: red;
+      background-color: transparent;
+      text-decoration: underline;
+    }
   }
   
