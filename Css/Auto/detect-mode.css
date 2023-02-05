@@ -3,7 +3,7 @@
       background-color: white;
       color: black;
       }
-    a:link {
+    a {
         color: black;
         background-color: transparent;
         text-decoration: underline;
@@ -19,7 +19,7 @@
       background-color: black;
       color: white;
       }
-    a:link {
+    a {
       color: white;
       background-color: transparent;
       text-decoration: underline;
