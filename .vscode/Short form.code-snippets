@@ -1,0 +1,35 @@
+{
+	 "MIC": {
+	 	"scope": "javascript,html",
+	 	"prefix": "MIC",
+	 	"body": [
+	 		"Maputo International Collage"
+	 	],
+	 	"description": ""
+	 },
+	 "MICC": {
+		"scope": "javascript,html",
+		"prefix": "MICC",
+		"body": [
+			"Maputo International Collage Classroom"
+		],
+		"description": ""
+	},
+	"author": {
+		"scope": "javascript,html",
+		"prefix": "Author",
+		"body": [
+			"Maputo International Collage Student"
+		],
+		"description": ""
+	},
+	"keywords": {
+		"scope": "javascript,html",
+		"prefix": "keyword",
+		"body": [
+			"MIC Classroom, Maputo International Collage Classroom"
+		],
+		"description": ""
+	}
+
+}
